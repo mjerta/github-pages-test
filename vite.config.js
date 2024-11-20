@@ -10,5 +10,5 @@ export default defineConfig({
       usePolling: true, // Ensures changes are detected, useful in some environments
     },
   },
-  base: "/github-pages-test"
+  base: "/"
 })
