@@ -2,7 +2,7 @@
   "name": "github-pages-test",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://mjerta.github.io/github-pages-test/",
+  "homepage": "https://github-pages-test.mpdev.nl",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
